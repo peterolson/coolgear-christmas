@@ -1,4 +1,7 @@
-<a href="/">&lt; Back home</a>
+<script lang="ts">
+    import { base } from '$app/paths';
+</script>
+<a href="{base}">&lt; Back home</a>
 <main>
 <slot></slot>
 </main>

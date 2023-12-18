@@ -1,0 +1,9 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+pre {
+    font-family: 'Courier New', Courier, monospace;
+    white-space: pre-wrap;
+    width: 800px;
+}

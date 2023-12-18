@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>CoolGear Christmas Puzzles</title>
+		<meta charset="utf-8" />
+		<link rel="icon" href="../favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="../global.css" />
+		
+		<link href="../_app/immutable/assets/2.G7EGQis2.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/6.3BSjPyij.css" rel="stylesheet">
+		<link rel="modulepreload" href="../_app/immutable/entry/start.s7JpJ6Wj.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/scheduler.k-kUyWhY.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.ZNT01e2e.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/paths.WujzgQb8.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/app.wgcKB8ld.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.5XCitCbI.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/0.L1tgILAx.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/2.Ob7O_DGb.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/6.2BCtQBu2.js">
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">  <a href=".." data-svelte-h="svelte-421om6">&lt; Back home</a> <main class="svelte-1ggum01"><pre data-svelte-h="svelte-1bnydtu">In Hanyu Pinyin, there are 22 possible syllable initials:
+
+b, p, m, f
+d, t, n, l
+g, k, h
+j, q, x
+zh, ch, sh, r
+z, c, s
+∅ (null initial)
+
+and 35 possible syllable finals:
+
+Group a: a,e,ai,ei,ao,ou,an,en,ang,eng,ong
+Group i: ia,ie,iao,iu,ian,in,iang,ing,iong
+Group u: ua,uo,uai,ui,uan,un,uang
+Group ü: ü,üe,üan,ün
+Misfits: i, o, u, er
+
+Syllables can be formed by combining an initial with a final. However, not all possible combinations are phonotactically valid.
+
+The rules below form a simplified approximation of the rules of Mandarin Chinese phonotactics and pinyin spelling:
+<ol><li>∅ (the null initial) can be combined with any of the finals. However, some finals are written differently in a syllable with a null initial. 
+Namely:
+<table>
+    <tr>
+        <td class="svelte-1fumn3">∅+i=yi
+∅+ia=ya
+∅+iao=yao
+∅+ie=ye
+∅+iu=you
+∅+ian=yan
+∅+in=yin
+∅+iang=yang
+∅+ing=ying
+∅+iong=yong</td>
+        <td class="svelte-1fumn3">∅+u=wu
+∅+ua=wa
+∅+uo=wo
+∅+uai=wai
+∅+ui=wei
+∅+uan=wan
+∅+un=wen
+∅+uang=wang</td>
+        <td class="svelte-1fumn3">∅+ü=yu
+∅+üe=yue
+∅+üan=yuan
+∅+ün=yun</td>
+    </tr>
+</table>
+</li><li>&quot;Group a&quot; finals can be paired with any initial except j,q,x</li>
+<li>&quot;Group i&quot; finals can only be paired with ∅,b,p,m,d,t,n,l,j,q,x </li>
+<li>&quot;Group u&quot; finals can only be paired with ∅,d,t,n,l,g,k,h,zh,ch,sh,r,z,c,s</li>
+<li>&quot;Group ü&quot; finals can only be paired with ∅,n,l,j,q,x. 
+When j,q,x are paired with ü, the diacritics are dropped. E.g. jü ⇛ ju</li>
+<li>&quot;i&quot; can be paired with any initial except g,k,h</li>
+<li>&quot;o&quot; can only be paired with ∅,b,p,m,f,l</li>
+<li>&quot;u&quot; can be paired with any initial except j,q,x</li>
+<li>&quot;er&quot; can only be paired with ∅</li></ol>
+<h3>Problem 1</h3>According to the rules above, how many possible syllables are there in Hanyu Pinyin?
+<h3>Problem 2</h3>Some words in English can be reanalyzed as a sequence of pinyin syllables. 
+
+For example, &quot;enchilada&quot; can be divided into valid pinyin syllables en-chi-la-da.
+
+However, some English words have combinations of letters that cannot be divided into valid pinyin syllables, such as &quot;chocolate&quot;.
+
+What is the longest word in the English language (according to <a href="https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt">this wordlist</a>) that can be reanalyzed as a series of pinyin syllables?
+
+If there are multiple longest words, break the tie by choosing the word that comes first alphabetically.
+</pre> </main> 
+			
+			<script>
+				{
+					__sveltekit_7wpsk9 = {
+						assets: "/coolgear-christmas",
+						base: new URL("..", location).pathname.slice(0, -1),
+						env: null
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null,null];
+
+					Promise.all([
+						import("../_app/immutable/entry/start.s7JpJ6Wj.js"),
+						import("../_app/immutable/entry/app.wgcKB8ld.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 2, 6],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

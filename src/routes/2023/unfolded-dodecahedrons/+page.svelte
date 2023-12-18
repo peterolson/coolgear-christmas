@@ -1,6 +1,9 @@
+<script lang="ts">
+    import { base } from '$app/paths';
+</script>
 <pre>
 Without a doubt, the most beautiful ornament to put at the top of a Christmas tree is a stellated dodecahedron. It is of upmost importance to <b>Cool</b><i>Gear</i>'s bottom line to develop the most efficient possible process to manufacture these ornaments. 
-<img src="/img/stellated_dodecahedron.png" alt="stellated dodecahedron">
+<img src="{base}/img/stellated_dodecahedron.png" alt="stellated dodecahedron">
 But let's not get too far ahead ourselves -- before we can make stellated dodecahedrons, we first need to nail down the best way to make simple dodecahedrons. 
 
 One easy way to mass-produce dodecahedrons is to cut out a flat unfolded shape from cardboard, and then fold it into a dodecahedron.
@@ -9,7 +12,7 @@ One easy way to mass-produce dodecahedrons is to cut out a flat unfolded shape f
 
 Here is an example of one possible way to unfold a dodecahedron:
 
-<img src="/img/unfolded_dodecahedron.png" alt="dodecahedron unfolded">
+<img src="{base}/img/unfolded_dodecahedron.png" alt="dodecahedron unfolded">
 
 For reference, if we were considering tetrahedrons, rather than dodecahedrons, the answer would be 2.
 Similarly, if we were considering cubes, the answer would be 11.

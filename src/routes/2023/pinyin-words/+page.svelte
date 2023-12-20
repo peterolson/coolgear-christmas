@@ -11,11 +11,11 @@ z, c, s
 
 and 35 possible syllable finals:
 
-Group a: a,e,ai,ei,ao,ou,an,en,ang,eng,ong
+Group a: a,e,ai,ei,ao,ou,an,en,ang,eng,ong,u
 Group i: ia,ie,iao,iu,ian,in,iang,ing,iong
 Group u: ua,uo,uai,ui,uan,un,uang
 Group ü: ü,üe,üan,ün
-Misfits: i, o, u, er
+Misfits: i, o, er
 
 Syllables can be formed by combining an initial with a final. However, not all possible combinations are phonotactically valid.
 
@@ -55,7 +55,6 @@ Namely:
 When j,q,x are paired with ü, the diacritics are dropped. E.g. jü &rAarr; ju</li>
 <li>"i" can be paired with any initial except g,k,h</li>
 <li>"o" can only be paired with ∅,b,p,m,f,l</li>
-<li>"u" can be paired with any initial except j,q,x</li>
 <li>"er" can only be paired with ∅</li></ol>
 <h3>Problem 1</h3>According to the rules above, how many possible syllables are there in Hanyu Pinyin?
 <h3>Problem 2</h3>Some words in English can be reanalyzed as a sequence of pinyin syllables. 

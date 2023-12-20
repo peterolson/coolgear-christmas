@@ -1,7 +1,7 @@
 <script lang="ts">
     import { base } from '$app/paths';
 </script>
-<a href="{base}">&lt; Back home</a>
+<a href="/{base}">&lt; Back home</a>
 <main>
 <slot></slot>
 </main>

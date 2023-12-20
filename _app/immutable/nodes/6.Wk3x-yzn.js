@@ -10,11 +10,11 @@ z, c, s
 
 and 35 possible syllable finals:
 
-Group a: a,e,ai,ei,ao,ou,an,en,ang,eng,ong
+Group a: a,e,ai,ei,ao,ou,an,en,ang,eng,ong,u
 Group i: ia,ie,iao,iu,ian,in,iang,ing,iong
 Group u: ua,uo,uai,ui,uan,un,uang
 Group ü: ü,üe,üan,ün
-Misfits: i, o, u, er
+Misfits: i, o, er
 
 Syllables can be formed by combining an initial with a final. However, not all possible combinations are phonotactically valid.
 
@@ -54,7 +54,6 @@ Namely:
 When j,q,x are paired with ü, the diacritics are dropped. E.g. jü ⇛ ju</li>
 <li>&quot;i&quot; can be paired with any initial except g,k,h</li>
 <li>&quot;o&quot; can only be paired with ∅,b,p,m,f,l</li>
-<li>&quot;u&quot; can be paired with any initial except j,q,x</li>
 <li>&quot;er&quot; can only be paired with ∅</li></ol>
 <h3>Problem 1</h3>According to the rules above, how many possible syllables are there in Hanyu Pinyin?
 <h3>Problem 2</h3>Some words in English can be reanalyzed as a sequence of pinyin syllables. 
@@ -66,4 +65,4 @@ However, some English words have combinations of letters that cannot be divided 
 What is the longest word in the English language (according to <a href="https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt">this wordlist</a>) that can be reanalyzed as a series of pinyin syllables?
 
 If there are multiple longest words, break the tie by choosing the word that comes first alphabetically.
-`;return{c(){i=u("pre"),i.innerHTML=n},l(e){i=h(e,"PRE",{"data-svelte-h":!0}),c(i)!=="svelte-1bnydtu"&&(i.innerHTML=n)},m(e,l){d(e,i,l)},p:a,i:a,o:a,d(e){e&&p(i)}}}class m extends s{constructor(i){super(),r(this,i,null,y,o,{})}}export{m as component};
+`;return{c(){i=u("pre"),i.innerHTML=n},l(e){i=h(e,"PRE",{"data-svelte-h":!0}),c(i)!=="svelte-lt76vs"&&(i.innerHTML=n)},m(e,l){d(e,i,l)},p:a,i:a,o:a,d(e){e&&p(i)}}}class m extends s{constructor(i){super(),r(this,i,null,y,o,{})}}export{m as component};

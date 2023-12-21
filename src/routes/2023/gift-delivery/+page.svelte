@@ -1,5 +1,5 @@
 <pre>
-Due to budgetary constrains, Santa has been to shut down his gift delivery office and sub-contract the coordination of gift delivery to <b>Cool</b><i>Gear</i>.
+Due to budgetary constraints, Santa has been compelled to shut down his gift delivery office and sub-contract the coordination of gift delivery to <b>Cool</b><i>Gear</i>.
 
 One of the hidden secrets of Santa's operation is that he delegates most of the gift delivery to his elves, who are responsible for ensuring that gifts appear under the Christmas tree on Christmas morning. 
 

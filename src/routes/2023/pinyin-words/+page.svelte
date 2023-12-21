@@ -1,4 +1,10 @@
 <pre>
+Santa has consulted <b>Cool</b><i>Gear</i> to help him with expanding his operations to China, due to the large number of children living there who do not currently receive his gifts.
+
+However, Santa has run into a problem: he does not know how to speak Chinese, and this thwarts his efforts to determine who is naughty and who is nice.
+
+To start gently, let's help Santa understand the basic phonotactics of Mandarin Chinese.
+
 In Hanyu Pinyin, there are 22 possible syllable initials:
 
 b, p, m, f
@@ -64,8 +70,6 @@ For example, "enchilada" can be divided into valid pinyin syllables en-chi-la-da
 However, some English words have combinations of letters that cannot be divided into valid pinyin syllables, such as "chocolate".
 
 What is the longest word in the English language (according to <a href="https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt">this wordlist</a>) that can be reanalyzed as a series of pinyin syllables?
-
-If there are multiple longest words, break the tie by choosing the word that comes first alphabetically.
 </pre>
 
 <style>

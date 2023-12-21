@@ -60,7 +60,7 @@ The game shown in Example 3 is winning.
 	And a partridge in a pair tree.
 	[etc.]
 </i>
-Consider the piles of objects you have accumulated after the nth day of receiving Christmas gifts from your true love:
+Consider the piles of objects you have accumulated after the <i>n</i>th day of receiving Christmas gifts from your true love:
 
 <b>Day 1</b>
 <table>

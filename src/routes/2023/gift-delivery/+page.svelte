@@ -34,15 +34,15 @@ Elves are not strong enough to push multiple gifts at once, so if there are mult
 
 🧑‍🎄🎁🎁🎄
 
-<h3>Problem 1</h3>What is the minimum number of moves required for the elves to deliver all the gifts to the Christmas tree?
+<h3>Problem 1</h3>What is the minimum number of moves required for the elves in the map below to deliver all the gifts to the Christmas tree?
 
-⬜⬜⬜⬜⬜
-⬜🎁🎁🎁⬜
-⬜🎁🎄🧑‍🎄⬜
-⬜🎁🧑‍🎄🎁⬜
-⬜⬜⬜⬜⬜
+⬜⬜⬜🧑‍🎄⬜
+🧑‍🎄🎄⬜🎁⬜
+⬜⬜⬜🎁⬜
+⬜🎁⬜⬜⬜
+⬜⬜🧑‍🎄⬜⬜
 
-<h3>Problem 2</h3>Consider all of the 7x5 maps with a tree in the center square, 2 elves, and up to 5 gifts. Among these maps, what is the maximum possible number of moves necessary to deliver all the gifts to the tree?
+<h3>Problem 2</h3>Consider all of the 3x7 maps with a tree in a corner square, up to 3 elves, and up to 5 gifts. Among these maps, what is the maximum possible number of moves necessary to deliver all the gifts to the tree?
 
 
 </pre>

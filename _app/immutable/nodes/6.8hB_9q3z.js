@@ -1,4 +1,10 @@
-import{s as o,n as a}from"../chunks/scheduler.k-kUyWhY.js";import{S as s,i as r,g as u,h,y as c,a as d,f as p}from"../chunks/index.5XCitCbI.js";function y(t){let i,n=`In Hanyu Pinyin, there are 22 possible syllable initials:
+import{s as l,n}from"../chunks/scheduler.k-kUyWhY.js";import{S as s,i as r,g as h,h as u,y as d,a as c,f as p}from"../chunks/index.5XCitCbI.js";function y(t){let e,a=`Santa has consulted <b>Cool</b><i>Gear</i> to help him with expanding his operations to China, due to the large number of children living there who do not currently receive his gifts.
+
+However, Santa has run into a problem: he does not know how to speak Chinese, and this thwarts his efforts to determine who is naughty and who is nice.
+
+To start gently, let&#39;s help Santa understand the basic phonotactics of Mandarin Chinese.
+
+In Hanyu Pinyin, there are 22 possible syllable initials:
 
 b, p, m, f
 d, t, n, l
@@ -63,6 +69,4 @@ For example, &quot;enchilada&quot; can be divided into valid pinyin syllables en
 However, some English words have combinations of letters that cannot be divided into valid pinyin syllables, such as &quot;chocolate&quot;.
 
 What is the longest word in the English language (according to <a href="https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt">this wordlist</a>) that can be reanalyzed as a series of pinyin syllables?
-
-If there are multiple longest words, break the tie by choosing the word that comes first alphabetically.
-`;return{c(){i=u("pre"),i.innerHTML=n},l(e){i=h(e,"PRE",{"data-svelte-h":!0}),c(i)!=="svelte-lt76vs"&&(i.innerHTML=n)},m(e,l){d(e,i,l)},p:a,i:a,o:a,d(e){e&&p(i)}}}class m extends s{constructor(i){super(),r(this,i,null,y,o,{})}}export{m as component};
+`;return{c(){e=h("pre"),e.innerHTML=a},l(i){e=u(i,"PRE",{"data-svelte-h":!0}),d(e)!=="svelte-1dnck60"&&(e.innerHTML=a)},m(i,o){c(i,e,o)},p:n,i:n,o:n,d(i){i&&p(e)}}}class w extends s{constructor(e){super(),r(this,e,null,y,l,{})}}export{w as component};

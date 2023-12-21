@@ -7,3 +7,9 @@ pre {
     white-space: pre-wrap;
     width: 800px;
 }
+
+@media print {
+    pre {
+        width: 100% !important;
+    }
+}

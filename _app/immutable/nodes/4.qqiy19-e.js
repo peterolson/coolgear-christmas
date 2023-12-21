@@ -59,7 +59,7 @@ The game shown in Example 3 is winning.
 	And a partridge in a pair tree.
 	[etc.]
 </i>
-Consider the piles of objects you have accumulated after the nth day of receiving Christmas gifts from your true love:
+Consider the piles of objects you have accumulated after the <i>n</i>th day of receiving Christmas gifts from your true love:
 
 <b>Day 1</b>
 <table class="svelte-1y5y10">
@@ -110,4 +110,4 @@ Day 1 is a losing game and day 2 is a winning game. For each day 3-12, determine
     </tr>
 </table>
 									
-`;return{c(){e=r("pre"),e.innerHTML=l},l(t){e=n(t,"PRE",{"data-svelte-h":!0}),c(e)!=="svelte-gucs5h"&&(e.innerHTML=l)},m(t,y){v(t,e,y)},p:s,i:s,o:s,d(t){t&&h(e)}}}class g extends i{constructor(e){super(),d(this,e,null,m,o,{})}}export{g as component};
+`;return{c(){e=r("pre"),e.innerHTML=l},l(t){e=n(t,"PRE",{"data-svelte-h":!0}),c(e)!=="svelte-v6eav4"&&(e.innerHTML=l)},m(t,y){v(t,e,y)},p:s,i:s,o:s,d(t){t&&h(e)}}}class g extends i{constructor(e){super(),d(this,e,null,m,o,{})}}export{g as component};

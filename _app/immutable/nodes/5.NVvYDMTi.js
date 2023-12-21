@@ -1,4 +1,4 @@
-import{s as i,n as a}from"../chunks/scheduler.k-kUyWhY.js";import{S as r,i as h,g as l,h as m,y as f,a as d,f as u}from"../chunks/index.5XCitCbI.js";function c(o){let e,s=`Due to budgetary constrains, Santa has been to shut down his gift delivery office and sub-contract the coordination of gift delivery to <b>Cool</b><i>Gear</i>.
+import{s as i,n as a}from"../chunks/scheduler.k-kUyWhY.js";import{S as r,i as h,g as l,h as m,y as d,a as f,f as u}from"../chunks/index.5XCitCbI.js";function c(s){let e,o=`Due to budgetary constraints, Santa has been compelled to shut down his gift delivery office and sub-contract the coordination of gift delivery to <b>Cool</b><i>Gear</i>.
 
 One of the hidden secrets of Santa&#39;s operation is that he delegates most of the gift delivery to his elves, who are responsible for ensuring that gifts appear under the Christmas tree on Christmas morning. 
 
@@ -33,15 +33,15 @@ Elves are not strong enough to push multiple gifts at once, so if there are mult
 
 🧑‍🎄🎁🎁🎄
 
-<h3>Problem 1</h3>What is the minimum number of moves required for the elves to deliver all the gifts to the Christmas tree?
+<h3>Problem 1</h3>What is the minimum number of moves required for the elves in the map below to deliver all the gifts to the Christmas tree?
 
-⬜⬜⬜⬜⬜
-⬜🎁🎁🎁⬜
-⬜🎁🎄🧑‍🎄⬜
-⬜🎁🧑‍🎄🎁⬜
-⬜⬜⬜⬜⬜
+⬜⬜⬜🧑‍🎄⬜
+🧑‍🎄🎄⬜🎁⬜
+⬜⬜⬜🎁⬜
+⬜🎁⬜⬜⬜
+⬜⬜🧑‍🎄⬜⬜
 
-<h3>Problem 2</h3>Consider all of the 7x5 maps with a tree in the center square, 2 elves, and up to 5 gifts. Among these maps, what is the maximum possible number of moves necessary to deliver all the gifts to the tree?
+<h3>Problem 2</h3>Consider all of the 3x7 maps with a tree in a corner square, up to 3 elves, and up to 5 gifts. Among these maps, what is the maximum possible number of moves necessary to deliver all the gifts to the tree?
 
 
-`;return{c(){e=l("pre"),e.innerHTML=s},l(t){e=m(t,"PRE",{"data-svelte-h":!0}),f(e)!=="svelte-180q70q"&&(e.innerHTML=s)},m(t,n){d(t,e,n)},p:a,i:a,o:a,d(t){t&&u(e)}}}class v extends r{constructor(e){super(),h(this,e,null,c,i,{})}}export{v as component};
+`;return{c(){e=l("pre"),e.innerHTML=o},l(t){e=m(t,"PRE",{"data-svelte-h":!0}),d(e)!=="svelte-1odny2u"&&(e.innerHTML=o)},m(t,n){f(t,e,n)},p:a,i:a,o:a,d(t){t&&u(e)}}}class v extends r{constructor(e){super(),h(this,e,null,c,i,{})}}export{v as component};

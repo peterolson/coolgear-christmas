@@ -22,7 +22,7 @@ For reference, if we were considering tetrahedrons, rather than dodecahedrons, t
 Similarly, if we were considering cubes, the answer would be 11.
  
 
-<h3>Problem 2</h3>Suppose that one edge of a dodecahedron has a length of <b>1</b>. 
+<h3 style="page-break-before: always;">Problem 2</h3>Suppose that one edge of a dodecahedron has a length of <b>1</b>. 
 
 We want to find the smallest bounding rectangle, i.e. the unfolding of a dodecahedron that can be cut out of the smallest possible rectangular sheet of cardboard.
 

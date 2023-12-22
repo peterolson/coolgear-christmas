@@ -1,26 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<title>CoolGear Christmas Puzzles</title>
-		<meta charset="utf-8" />
-		<link rel="icon" href="../favicon.png" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="stylesheet" href="../global.css" />
-		
-		<link href="../_app/immutable/assets/2.2inupVYT.css" rel="stylesheet">
-		<link href="../_app/immutable/assets/4.aJUQgUEw.css" rel="stylesheet">
-		<link rel="modulepreload" href="../_app/immutable/entry/start.13dbb6vT.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/scheduler.k-kUyWhY.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.nx6Q-Qzv.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/paths.-eHyHKJ5.js">
-		<link rel="modulepreload" href="../_app/immutable/entry/app._a4yW8CP.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/index.5XCitCbI.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/0.L1tgILAx.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/2.VgxWFR1C.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/4.sllR5b0g.js">
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents">  <a href="../" class="svelte-1vkms1m" data-svelte-h="svelte-1rpj4ln">&lt; Back home</a> <main class="svelte-1vkms1m"><pre data-svelte-h="svelte-14ytbvz">When <b>Cool</b><i>Gear</i> employees get bored, they start playing a game using whatever random objects they can find around the office.
+import{s as o,n as s}from"../chunks/scheduler.k-kUyWhY.js";import{S as i,i as r,g as n,h,y as p,a as c,f as v}from"../chunks/index.5XCitCbI.js";function m(a){let e,l=`When <b>Cool</b><i>Gear</i> employees get bored, they start playing a game using whatever random objects they can find around the office.
 
 In this two-player game, objects are arranged into several piles.
 
@@ -134,33 +112,4 @@ Day 1 is a losing game and day 2 is a winning game. For each day 3-12, determine
     </tr>
 </table>
 									
-</pre> </main> 
-			
-			<script>
-				{
-					__sveltekit_q9s872 = {
-						assets: "/coolgear-christmas",
-						base: new URL("..", location).pathname.slice(0, -1),
-						env: null
-					};
-
-					const element = document.currentScript.parentElement;
-
-					const data = [null,null,null];
-
-					Promise.all([
-						import("../_app/immutable/entry/start.13dbb6vT.js"),
-						import("../_app/immutable/entry/app._a4yW8CP.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 2, 4],
-							data,
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
+`;return{c(){e=n("pre"),e.innerHTML=l},l(t){e=h(t,"PRE",{"data-svelte-h":!0}),p(e)!=="svelte-14ytbvz"&&(e.innerHTML=l)},m(t,d){c(t,e,d)},p:s,i:s,o:s,d(t){t&&v(e)}}}class g extends i{constructor(e){super(),r(this,e,null,m,o,{})}}export{g as component};

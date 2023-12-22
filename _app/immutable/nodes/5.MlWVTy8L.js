@@ -35,13 +35,13 @@ Elves are not strong enough to push multiple gifts at once, so if there are mult
 
 <h3>Problem 1</h3>What is the minimum number of moves required for the elves in the map below to deliver all the gifts to the Christmas tree?
 
-⬜⬜⬜🧑⬜
-🧑‍🎄⬜🎁⬜
-⬜⬜⬜🎁⬜
-⬜🎁⬜⬜⬜
-⬜⬜🧑⬜⬜
+🧑⬜⬜⬜⬜
+⬜🎄⬜⬜⬜
+🧑🎁🎁🎁⬜
+🧑🎁⬜🎁⬜
+⬜⬜⬜⬜⬜
 
 <h3>Problem 2</h3>Consider all of the 3x7 maps with a tree in a corner square, up to 3 elves, and up to 5 gifts. Among these maps, what is the maximum possible number of moves necessary to deliver all the gifts to the tree?
 
 
-`;return{c(){e=l("pre"),e.innerHTML=o},l(t){e=m(t,"PRE",{"data-svelte-h":!0}),f(e)!=="svelte-1dif91t"&&(e.innerHTML=o)},m(t,n){d(t,e,n)},p:a,i:a,o:a,d(t){t&&u(e)}}}class v extends r{constructor(e){super(),h(this,e,null,c,i,{})}}export{v as component};
+`;return{c(){e=l("pre"),e.innerHTML=o},l(t){e=m(t,"PRE",{"data-svelte-h":!0}),f(e)!=="svelte-ajim8u"&&(e.innerHTML=o)},m(t,n){d(t,e,n)},p:a,i:a,o:a,d(t){t&&u(e)}}}class v extends r{constructor(e){super(),h(this,e,null,c,i,{})}}export{v as component};

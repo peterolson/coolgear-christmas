@@ -39,7 +39,7 @@ Elves are not strong enough to push multiple gifts at once, so if there are mult
 <h3>Problem 1</h3>What is the minimum number of moves required for the elves in the map below to deliver all the gifts to the Christmas tree?
 
 ⬜⬜⬜🧑⬜
-🧑‍🎄⬜🎁⬜
+🧑🎄⬜🎁⬜
 ⬜⬜⬜🎁⬜
 ⬜🎁⬜⬜⬜
 ⬜⬜🧑⬜⬜

@@ -1,5 +1,6 @@
 <pre>
-When <b>Cool</b><i>Gear</i> employees get bored, they start playing a game using whatever random objects they can find around the office.
+When <b>Cool</b><i>Gear</i
+	> employees get bored, they start playing a game using whatever random objects they can find around the office.
 
 In this two-player game, objects are arranged into several piles.
 
@@ -19,6 +20,8 @@ On their turn, a player must choose a single pile and then remove at least one o
 It is allowed to remove the whole pile, to remove only one item from that pile, or anything between. 
 
 It is not allowed to remove objects from multiple piles in a single turn.
+
+Whichever player takes the last object loses the game.
 
 A game is said to be “losing” if there is no way to win against a perfect opponent. If it is not “losing”, then it is “winning”.
 
@@ -81,7 +84,9 @@ Consider the piles of objects you have accumulated after the nth day of receivin
             <td>Pile 1</td><td>Pile 2</td><td>Pile 3</td>
         </tr>
         <tr>
-            <td>A partridge in a pair tree</td><td>Two turtledoves</td><td>A partridge in a pair tree</td>
+            <td>A partridge in a pair tree</td><td>Two turtledoves</td><td
+					>A partridge in a pair tree</td
+				>
         </tr>
     </tbody>
 </table>
@@ -114,12 +119,12 @@ Day 1 is a losing game and day 2 is a winning game. For each day 3-12, determine
 </pre>
 
 <style>
-    td {
-        padding: 2px 8px;
-    }
-    table {
-        margin-left: 1rem;
-        margin-top: 0.5rem;
-        margin-bottom: -0.5rem;
-    }
+	td {
+		padding: 2px 8px;
+	}
+	table {
+		margin-left: 1rem;
+		margin-top: 0.5rem;
+		margin-bottom: -0.5rem;
+	}
 </style>

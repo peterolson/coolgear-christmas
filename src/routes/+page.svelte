@@ -8,8 +8,8 @@
 <ul>
     <li><a href="{base}/2023/12-days-of-christmas">12 days of Christmas</a>
     <ul>
-        <li>Part 1: Not solved yet.</li>
-        <li>Part 2: Not solved yet.</li>
+        <li>Part 1: ✅ Solved by Alexis on 2023-12-23</li>
+        <li>Part 2: ✅ Solved by Alexis on 2023-12-23</li>
     </ul>
 </li>
     <li><a href="{base}/2023/unfolded-dodecahedrons">Unfolded dodecahedrons</a>

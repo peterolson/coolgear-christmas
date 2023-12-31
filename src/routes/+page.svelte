@@ -31,7 +31,7 @@
 		<a href="{base}/2023/pinyin-words">Pinyin words</a>
 		<ul>
 			<li>Part 1: Not solved yet.</li>
-			<li>Part 2: Not solved yet.</li>
+			<li>Part 2: ✅ Solved by 大鸟 on 2023-12-30.</li>
 		</ul>
 	</li>
 </ul>

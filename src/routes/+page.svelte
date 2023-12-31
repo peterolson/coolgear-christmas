@@ -23,8 +23,8 @@
 	<li>
 		<a href="{base}/2023/gift-delivery">Gift delivery</a>
 		<ul>
-			<li>Part 1: Solved by Jerry on 2023-12-30.</li>
-			<li>Part 2: Solved by Jerry on 2023-12-30.</li>
+			<li>Part 1: ✅ Solved by Jerry on 2023-12-30.</li>
+			<li>Part 2: ✅ Solved by Jerry on 2023-12-30.</li>
 		</ul>
 	</li>
 	<li>

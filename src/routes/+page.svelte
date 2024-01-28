@@ -16,8 +16,8 @@
 	<li>
 		<a href="{base}/2023/unfolded-dodecahedrons">Unfolded dodecahedrons</a>
 		<ul>
-			<li>Part 1: Not solved yet.</li>
-			<li>Part 2: Not solved yet.</li>
+			<li>Part 1: ✅ Solved by Eric on 2024-01-27</li>
+			<li>Part 2: ✅ Solved by Eric on 2024-01-27</li>
 		</ul>
 	</li>
 	<li>
